@@ -1,0 +1,224 @@
+Gender,Age,Religion,Caste,Education,Law_degree,Voted_Election,v8,v9,v10,v11,v12,v13,v14,v15,v16,v17,v18,v19,v20,v21,v22,v23,v24,v25,v26,v27,v28,v29,v30,v31,v32,v33,v34,v35,v36
+Male,20 to 30 years,Hinduism,GC,UG,No,Regional Parties,1,3,1,2,4,1,4,2,1,1,1,2,4,5,2,2,1,4,4,5,4,4,4,2,2,3,3,3,1
+Female,41 to 50 years,Hinduism,GC,PG,No,Not voted,1,1,1,1,4,1,3,3,1,2,1,3,2,3,2,5,3,2,3,2,1,3,2,2,2,3,3,3,3
+Female,20 to 30 years,Hinduism,Others,PG,No,Not voted,1,1,1,1,1,1,3,1,1,1,1,1,1,4,1,1,2,4,3,4,4,3,3,1,1,1,1,1,1
+Female,41 to 50 years,Christian,GC,PG,No,Others,1,3,1,1,4,2,5,1,1,1,1,3,5,3,1,3,3,5,1,3,4,4,5,2,2,2,2,2,2
+Female,51 to 60 years,Christian,GC,Professional,No,Not voted,2,4,1,1,2,4,5,3,1,1,1,4,5,5,1,2,2,2,1,3,3,5,4,2,2,3,2,2,2
+Male,31 to 40 years,Hinduism,OBC/BC,Professional,No,Regional Parties,2,4,2,1,4,2,2,2,2,2,2,2,2,2,1,2,2,4,2,2,2,2,2,3,3,3,3,2,3
+Male,20 to 30 years,Christian,GC,PG,No,Others,1,3,1,1,3,3,3,3,1,2,1,3,3,3,3,5,3,3,3,5,4,5,3,2,2,2,2,1,1
+Female,31 to 40 years,Christian,GC,PG,No,Not voted,2,3,3,3,3,4,3,4,5,5,5,3,4,3,5,3,2,5,3,3,3,3,3,3,3,2,2,3,3
+Female,20 to 30 years,Hinduism,OBC/BC,PG,No,BJP,1,1,1,2,1,1,3,3,1,2,2,3,2,4,2,3,2,2,4,2,3,2,3,1,1,1,1,1,1
+Male,31 to 40 years,Atheist/Agnostic,OBC/BC,PG,No,Others,1,1,1,1,2,1,5,2,5,5,5,1,1,1,4,5,4,2,5,1,2,1,1,1,1,1,1,1,1
+Female,20 to 30 years,Hinduism,SC/CT,PG,No,Congress,1,1,1,1,4,2,1,1,1,1,1,1,1,1,1,1,1,2,1,2,1,1,1,3,2,3,3,3,3
+Male,31 to 40 years,Hinduism,OBC/BC,PG,No,BJP,2,4,3,4,4,5,3,4,5,4,5,2,4,4,4,4,4,1,4,5,4,5,4,3,1,3,2,2,2
+Male,31 to 40 years,Hinduism,GC,PG,No,BJP,3,1,1,1,4,1,2,1,3,2,2,2,2,2,2,2,2,1,3,1,3,1,2,3,3,3,3,3,1
+Female,20 to 30 years,Hinduism,GC,PG,No,Not voted,1,5,1,1,5,3,5,5,1,1,1,3,4,5,1,5,5,5,3,1,1,5,5,2,3,3,3,2,2
+Female,20 to 30 years,Others,GC,PG,No,BJP,1,4,1,4,4,4,4,3,1,3,2,4,5,4,2,4,2,5,5,5,4,2,5,3,2,3,3,2,1
+Male,20 to 30 years,Islam,OBC/BC,PG,No,Congress,1,1,5,1,3,5,5,3,5,5,5,5,5,5,5,3,3,5,5,5,4,5,5,3,3,3,1,1,1
+Female,31 to 40 years,Hinduism,GC,PG,No,Congress,1,1,1,1,3,1,3,5,2,1,1,1,1,1,1,4,4,5,4,1,2,4,1,2,1,3,3,1,1
+Male,Above 60 years,Hinduism,GC,Professional,No,BJP,1,3,3,1,3,1,1,3,1,1,1,5,5,5,2,5,1,5,1,3,3,4,4,2,2,3,3,2,2
+Female,31 to 40 years,Hinduism,GC,UG,No,BJP,1,1,1,1,4,1,3,2,1,1,1,5,1,4,1,2,1,2,1,5,1,5,1,3,1,3,1,2,1
+Prefer not to say,20 to 30 years,Atheist/Agnostic,SC/CT,PG,No,Not voted,2,3,3,3,4,2,2,1,1,1,1,4,4,2,3,2,3,3,3,3,4,3,4,2,2,2,2,1,1
+Male,31 to 40 years,Hinduism,GC,PG,Yes,Others,1,1,1,1,4,5,4,3,1,1,1,5,1,5,2,2,1,5,1,2,2,4,2,2,2,1,2,2,1
+Male,20 to 30 years,Hinduism,GC,PG,No,Not voted,1,2,1,3,4,4,4,1,1,4,2,5,1,1,1,5,3,1,5,1,1,1,1,3,3,3,3,3,3
+Female,20 to 30 years,Hinduism,OBC/BC,PG,No,Not voted,1,1,1,1,1,2,2,3,1,2,2,3,3,4,3,3,3,4,5,5,2,3,3,3,2,3,3,2,2
+Male,20 to 30 years,Hinduism,GC,PG,No,Regional Parties,1,3,3,1,3,1,2,1,1,1,1,3,1,2,2,5,3,5,5,1,3,2,1,3,2,3,3,1,1
+Female,20 to 30 years,Hinduism,GC,UG,No,Not voted,1,1,1,1,3,2,3,3,1,2,2,3,3,3,2,3,2,4,3,4,3,3,3,2,2,2,2,2,2
+Female,31 to 40 years,Hinduism,GC,PG,No,Not voted,1,1,2,1,3,1,1,1,1,3,1,5,3,3,3,3,3,3,3,2,3,3,2,1,1,1,1,1,1
+Male,20 to 30 years,Islam,OBC/BC,UG,No,Regional Parties,1,2,1,2,4,3,3,4,2,2,1,3,1,3,2,4,3,4,2,4,2,3,2,3,3,3,3,2,1
+Female,20 to 30 years,Hinduism,GC,PG,No,Not voted,1,1,1,1,3,3,3,2,1,3,1,3,2,3,2,1,1,4,1,5,5,5,5,1,1,2,1,1,1
+Female,20 to 30 years,Hinduism,OBC/BC,PG,No,BJP,1,1,1,1,4,5,4,3,5,5,5,2,4,3,4,4,3,4,4,3,2,1,2,2,2,2,2,2,2
+Male,20 to 30 years,Hinduism,GC,PG,No,Regional Parties,1,1,1,1,1,3,5,3,2,1,1,2,2,3,2,3,2,3,3,2,3,3,3,2,2,2,2,3,2
+Female,31 to 40 years,Hinduism,GC,Professional,No,BJP,1,1,1,1,3,2,3,2,3,3,2,3,2,3,2,4,3,3,2,3,4,3,2,2,2,3,3,2,3
+Female,20 to 30 years,Atheist/Agnostic,GC,PG,No,Not voted,1,3,1,3,5,3,5,2,1,1,1,4,4,3,3,1,1,5,1,5,5,5,5,1,1,1,1,1,1
+Female,Above 60 years,Hinduism,Others,Professional,No,BJP,1,4,1,1,2,1,1,3,2,1,1,4,2,4,2,2,5,2,2,2,4,2,2,3,3,3,3,3,3
+Male,Above 60 years,Hinduism,GC,Professional,Yes,BJP,1,1,1,1,4,1,2,1,1,1,1,3,1,3,1,4,4,5,3,2,2,2,2,2,3,2,3,3,2
+Male,20 to 30 years,Atheist/Agnostic,GC,PG,No,Regional Parties,1,4,4,1,4,5,5,4,4,4,4,4,4,4,4,4,3,3,3,3,3,3,4,2,2,2,2,1,1
+Male,20 to 30 years,Hinduism,GC,UG,No,Others,1,1,1,1,4,3,1,4,5,5,5,4,2,2,4,4,5,5,5,2,3,3,3,2,2,2,2,2,2
+Female,20 to 30 years,Hinduism,OBC/BC,UG,No,Not voted,1,2,1,1,2,1,2,3,2,1,1,3,1,1,2,3,2,3,4,1,3,3,1,3,3,3,2,2,2
+Female,41 to 50 years,Hinduism,GC,Professional,No,Congress,3,3,3,4,3,2,2,2,2,3,2,1,1,2,1,2,1,3,2,2,2,2,2,2,2,2,2,2,2
+Male,31 to 40 years,Hinduism,GC,PG,No,Not voted,1,1,1,1,5,5,5,2,5,4,5,1,5,2,4,2,4,1,2,5,5,5,5,2,2,3,2,3,1
+Female,31 to 40 years,Hinduism,GC,PG,No,BJP,1,3,1,1,3,2,3,2,1,1,1,5,2,3,1,4,2,5,2,2,3,1,2,3,3,3,3,2,2
+Female,31 to 40 years,Christian,GC,PG,No,Congress,2,4,2,1,4,1,2,4,2,2,1,3,4,4,4,1,3,2,2,4,5,3,4,2,2,2,2,2,2
+Female,20 to 30 years,Hinduism,GC,UG,No,Congress,1,1,1,1,3,3,3,3,1,1,1,4,3,4,2,3,2,5,2,3,3,4,4,2,2,2,2,1,1
+Female,20 to 30 years,Christian,GC,PG,Yes,Others,1,3,3,3,3,3,4,3,1,1,1,5,2,5,3,1,1,5,5,3,4,4,5,1,1,1,1,1,1
+Female,20 to 30 years,Hinduism,GC,UG,No,Not voted,1,1,1,1,4,5,4,3,1,1,1,3,4,5,2,3,4,4,3,3,4,4,1,3,3,3,3,2,2
+Female,51 to 60 years,Hinduism,SC/CT,PG,No,Not voted,2,2,2,2,4,5,3,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,2,2,1,1,1,1
+Male,20 to 30 years,Hinduism,GC,PG,No,BJP,2,4,4,4,5,3,4,1,1,2,5,4,2,3,1,4,1,1,5,1,1,4,1,1,2,3,1,3,1
+Female,31 to 40 years,Hinduism,OBC/BC,PG,No,Regional Parties,1,1,1,1,2,2,4,3,1,1,1,4,1,3,2,4,2,3,4,2,1,3,1,3,2,3,2,1,1
+Female,31 to 40 years,Hinduism,Others,Professional,No,BJP,1,3,3,3,4,2,2,3,1,1,1,2,1,2,2,3,2,5,4,2,1,3,1,2,3,3,3,2,2
+Female,51 to 60 years,Hinduism,Others,PG,No,BJP,1,2,1,1,3,5,3,4,1,1,1,5,3,4,3,4,1,2,2,3,3,5,3,2,2,3,2,2,2
+Female,51 to 60 years,Hinduism,OBC/BC,Professional,No,BJP,1,1,2,1,1,4,1,2,1,1,1,5,5,5,2,1,1,5,1,4,2,5,5,1,1,1,1,1,1
+Male,20 to 30 years,Others,GC,PG,No,Not voted,4,4,4,2,5,1,2,2,1,1,1,5,5,5,1,1,1,5,1,5,5,5,5,1,1,1,1,1,1
+Female,31 to 40 years,Hinduism,GC,PG,No,BJP,1,5,4,1,4,1,3,1,1,1,1,1,2,3,2,2,1,5,2,1,1,5,3,3,3,3,3,2,1
+Male,51 to 60 years,Hinduism,GC,UG,Yes,BJP,1,1,1,1,1,1,1,5,3,1,2,3,1,5,1,5,5,5,5,5,1,5,1,3,1,3,3,3,3
+Male,20 to 30 years,Hinduism,OBC/BC,UG,No,Congress,1,1,1,2,4,1,5,1,5,5,5,5,5,5,5,3,5,3,1,5,5,1,5,1,1,3,2,1,1
+Male,20 to 30 years,Christian,Others,PG,No,Others,1,1,1,1,2,2,3,4,1,1,2,5,5,5,3,3,1,1,1,3,5,5,4,3,3,3,2,1,1
+Female,31 to 40 years,Christian,GC,PG,No,Congress,2,1,2,2,3,1,1,2,1,1,2,4,2,2,4,3,2,5,4,5,5,5,5,1,1,1,2,3,3
+Female,Above 60 years,Hinduism,OBC/BC,Below 12th,No,Not voted,1,3,2,2,2,5,5,5,5,3,5,5,5,3,3,3,3,3,3,3,4,3,3,3,1,2,2,2,2
+Male,Above 60 years,Atheist/Agnostic,GC,Professional,No,Others,1,1,1,2,2,1,2,4,1,2,2,3,3,4,3,3,3,3,3,2,2,4,2,3,2,2,3,3,2
+Male,20 to 30 years,Hinduism,OBC/BC,UG,No,Regional Parties,1,1,1,1,3,1,2,2,1,1,1,2,1,4,2,2,2,3,3,2,5,4,1,3,3,3,2,2,2
+Female,51 to 60 years,Hinduism,GC,PG,No,Not voted,1,1,1,1,3,4,3,2,1,1,1,4,3,3,2,2,2,5,2,5,5,5,5,2,2,2,2,2,2
+Male,41 to 50 years,Hinduism,GC,PG,No,Congress,1,1,1,1,1,1,1,1,5,5,5,1,1,1,5,5,5,5,5,1,1,1,5,1,3,3,3,3,1
+Female,20 to 30 years,Hinduism,OBC/BC,UG,No,Not voted,1,1,1,1,4,1,3,3,1,1,1,2,1,4,1,2,3,5,3,2,4,2,1,3,3,3,3,3,3
+Female,20 to 30 years,Islam,OBC/BC,PG,No,BJP,1,1,1,1,2,4,3,2,2,4,4,4,4,4,3,4,3,4,4,4,4,3,4,1,1,1,1,1,1
+Female,20 to 30 years,Hinduism,Others,PG,No,Others,1,1,1,1,2,1,2,3,1,1,2,3,3,4,3,3,3,3,3,3,3,3,3,2,2,2,2,2,2
+Male,31 to 40 years,Atheist/Agnostic,SC/CT,Professional,Yes,Not voted,1,1,1,2,3,3,4,1,5,5,5,1,1,1,2,5,4,4,5,1,1,1,1,1,1,2,1,1,1
+Male,20 to 30 years,Hinduism,OBC/BC,UG,No,BJP,1,1,1,1,2,1,3,1,1,1,1,5,1,3,1,2,5,5,4,1,1,3,1,3,3,3,3,2,1
+Female,20 to 30 years,Hinduism,GC,PG,No,BJP,1,1,1,1,1,1,1,5,1,1,1,4,1,1,1,5,5,5,3,2,3,5,1,1,1,1,1,1,1
+Female,20 to 30 years,Hinduism,Others,PG,No,BJP,1,3,2,1,4,1,4,3,2,1,1,2,2,3,2,1,4,5,1,3,3,5,5,3,2,3,3,2,2
+Female,20 to 30 years,Hinduism,OBC/BC,PG,No,Regional Parties,1,1,1,1,1,3,3,3,1,1,1,3,3,5,3,3,3,3,3,3,3,3,3,1,1,1,1,1,1
+Male,20 to 30 years,Hinduism,OBC/BC,PG,No,BJP,1,5,5,4,5,2,3,4,2,3,3,2,4,4,3,5,3,2,3,3,1,1,1,3,3,3,2,2,1
+Male,31 to 40 years,Atheist/Agnostic,SC/CT,Professional,No,Others,1,1,1,1,1,1,2,2,1,1,1,5,5,5,1,1,5,5,1,1,2,1,2,1,1,1,1,1,1
+Male,20 to 30 years,Hinduism,OBC/BC,PG,No,Regional Parties,1,4,3,1,4,2,4,2,2,2,2,3,3,5,1,1,2,3,2,3,3,2,3,2,2,3,2,2,3
+Male,41 to 50 years,Hinduism,OBC/BC,Below 12th,No,Congress,1,1,1,1,1,5,2,5,1,5,5,2,5,2,5,2,5,5,5,5,5,1,2,2,2,3,2,2,2
+Male,20 to 30 years,Christian,OBC/BC,PG,No,Not voted,1,3,1,1,5,1,1,3,1,2,1,2,2,5,2,3,4,4,2,1,2,1,1,3,2,3,3,2,3
+Male,20 to 30 years,Hinduism,SC/CT,UG,No,Not voted,1,1,1,1,2,1,1,1,1,1,1,5,1,1,1,1,1,4,5,3,2,3,2,3,3,3,3,3,3
+Female,31 to 40 years,Hinduism,OBC/BC,Professional,No,Regional Parties,1,3,4,4,4,1,2,3,1,1,1,4,1,1,3,4,4,2,4,5,2,5,4,2,2,3,2,2,3
+Female,20 to 30 years,Hinduism,OBC/BC,PG,No,Regional Parties,1,3,4,1,4,2,4,4,1,1,1,3,2,4,2,4,3,5,2,2,4,5,2,3,3,3,3,1,1
+Female,20 to 30 years,Hinduism,GC,PG,No,BJP,1,2,1,1,3,1,2,1,1,1,1,3,2,1,1,3,1,4,1,5,5,3,1,1,1,1,1,1,1
+Female,20 to 30 years,Hinduism,GC,PG,Yes,BJP,1,5,1,1,1,5,5,3,5,5,5,5,1,4,1,3,2,3,3,2,1,2,2,3,2,3,3,2,2
+Female,41 to 50 years,Hinduism,GC,Professional,No,Others,1,1,1,1,4,3,3,4,1,2,1,2,2,3,2,4,2,1,4,2,2,3,2,3,3,3,3,3,2
+Female,20 to 30 years,Hinduism,GC,UG,No,Not voted,1,1,1,1,3,2,3,3,1,1,2,3,2,2,3,4,3,4,2,2,1,4,2,2,2,3,3,1,1
+Male,51 to 60 years,Hinduism,GC,Professional,No,Regional Parties,1,1,1,1,3,3,3,3,3,2,2,1,1,2,2,4,4,4,4,3,3,4,3,3,2,2,2,2,1
+Female,20 to 30 years,Hinduism,Others,UG,No,Not voted,1,1,1,1,1,3,3,2,5,5,5,3,3,2,1,4,4,2,5,4,3,3,3,1,1,3,1,1,1
+Female,20 to 30 years,Hinduism,GC,Professional,No,Congress,1,1,1,3,3,5,4,3,3,5,5,3,3,3,3,3,3,3,3,3,3,3,3,1,2,2,2,2,2
+Female,51 to 60 years,Hinduism,GC,PG,No,Others,1,2,1,1,2,1,4,4,1,1,1,2,1,3,1,4,4,3,3,2,2,3,2,2,2,3,3,3,2
+Female,20 to 30 years,Islam,OBC/BC,UG,No,Not voted,3,5,3,4,5,3,5,5,5,5,5,5,5,5,5,1,1,1,3,5,1,5,4,3,1,3,3,2,2
+Male,20 to 30 years,Hinduism,GC,UG,No,Not voted,1,1,1,1,5,5,1,1,5,5,5,1,5,5,1,1,1,1,1,5,2,1,1,3,1,3,2,2,3
+Female,31 to 40 years,Hinduism,OBC/BC,Professional,No,BJP,1,5,1,2,2,4,3,2,1,1,1,4,1,1,1,3,1,5,3,1,1,2,1,3,3,3,3,3,3
+Female,20 to 30 years,Hinduism,SC/CT,UG,No,Not voted,1,2,1,1,2,5,3,3,5,5,5,2,4,3,5,4,3,1,3,4,4,4,3,3,3,3,3,2,2
+Male,20 to 30 years,Hinduism,OBC/BC,UG,No,Others,1,1,1,1,2,4,1,3,3,1,1,3,3,3,3,5,1,3,3,1,1,3,1,1,1,3,2,1,3
+Female,20 to 30 years,Islam,OBC/BC,UG,No,Not voted,1,1,1,1,3,5,5,5,5,5,5,5,5,5,5,1,1,1,5,5,5,5,5,3,1,3,3,1,1
+Male,20 to 30 years,Hinduism,OBC/BC,UG,No,BJP,1,3,2,1,2,5,2,2,5,5,5,3,4,5,5,5,3,3,3,5,5,3,5,1,1,1,1,1,1
+Male,20 to 30 years,Hinduism,GC,Professional,No,BJP,1,2,4,3,5,1,4,2,3,3,1,4,5,2,3,5,4,3,4,2,4,2,1,3,2,3,3,2,2
+Male,41 to 50 years,Hinduism,OBC/BC,Professional,No,BJP,1,2,1,3,2,2,3,1,3,3,2,4,1,3,1,4,2,5,2,2,1,5,4,2,2,3,2,2,2
+Female,20 to 30 years,Hinduism,GC,PG,No,BJP,1,1,1,1,2,1,3,3,1,1,1,2,2,1,1,1,1,2,1,2,1,1,1,3,3,3,3,3,3
+Female,20 to 30 years,Islam,OBC/BC,UG,No,Not voted,1,5,5,1,5,4,5,4,5,5,5,5,5,1,5,1,3,4,5,5,5,4,5,3,3,3,3,3,3
+Male,20 to 30 years,Hinduism,OBC/BC,UG,No,Not voted,1,1,1,1,1,1,5,2,5,5,5,5,3,5,4,2,3,3,5,4,5,3,2,3,3,3,3,2,2
+Female,20 to 30 years,Hinduism,OBC/BC,UG,No,Regional Parties,3,1,1,1,3,2,3,2,1,1,1,2,3,2,1,4,3,5,2,4,3,3,5,3,3,2,2,3,2
+Female,20 to 30 years,Islam,OBC/BC,PG,No,Regional Parties,1,1,1,1,3,1,2,3,1,1,1,4,1,3,2,4,2,2,4,2,2,1,2,2,2,3,2,2,2
+Female,20 to 30 years,Hinduism,OBC/BC,UG,No,Others,1,1,1,1,1,5,5,1,5,5,5,5,5,5,5,1,1,1,1,5,1,5,5,3,3,3,3,3,3
+Male,20 to 30 years,Atheist/Agnostic,GC,PG,No,Regional Parties,1,3,1,1,5,4,4,3,5,5,5,3,4,4,2,2,1,1,5,5,5,5,5,3,3,3,3,3,3
+Female,20 to 30 years,Islam,OBC/BC,UG,No,Not voted,1,2,2,2,3,5,4,2,5,4,5,2,2,5,4,2,4,3,5,3,4,4,4,2,2,3,2,2,2
+Male,20 to 30 years,Hinduism,OBC/BC,PG,No,Regional Parties,1,3,1,3,5,1,1,3,3,3,3,3,3,1,1,1,5,5,5,1,1,5,4,3,3,3,3,1,1
+Male,31 to 40 years,Hinduism,OBC/BC,Professional,No,Regional Parties,1,2,1,3,3,3,5,2,1,1,1,5,5,5,1,1,1,5,1,5,5,5,5,1,1,1,1,1,1
+Female,41 to 50 years,Hinduism,GC,Professional,No,BJP,2,2,2,2,3,1,2,2,1,2,1,2,1,2,1,3,2,2,2,2,2,2,2,3,2,3,3,2,3
+Female,20 to 30 years,Hinduism,SC/CT,UG,No,Not voted,1,1,1,1,1,5,5,5,5,5,5,5,1,5,5,5,5,1,1,5,1,5,1,1,1,3,1,2,3
+Female,20 to 30 years,Hinduism,OBC/BC,UG,No,Not voted,1,1,1,1,1,3,5,1,1,5,5,4,4,3,4,4,4,3,5,4,1,1,2,3,3,3,3,1,2
+Female,20 to 30 years,Hinduism,SC/CT,UG,No,Congress,1,1,1,1,1,3,1,4,5,5,5,5,5,5,5,4,4,4,4,5,3,5,3,3,3,3,3,3,3
+Male,20 to 30 years,Hinduism,OBC/BC,PG,No,BJP,1,2,3,1,2,4,5,4,4,5,5,3,4,3,4,4,4,3,3,4,3,3,5,3,2,3,3,2,2
+Female,20 to 30 years,Islam,OBC/BC,UG,No,Not voted,1,1,1,1,1,1,1,4,1,1,1,1,2,1,3,2,3,1,5,3,3,4,2,1,1,1,1,1,1
+Female,20 to 30 years,Christian,GC,PG,No,Congress,1,1,1,1,4,1,4,4,2,1,1,4,1,2,2,5,3,2,3,2,2,4,2,3,3,3,3,1,1
+Female,20 to 30 years,Islam,OBC/BC,UG,No,Not voted,1,1,1,1,2,2,2,3,1,1,2,2,2,2,2,3,3,4,3,1,3,2,1,3,3,3,3,2,2
+Female,20 to 30 years,Hinduism,GC,UG,No,Not voted,2,2,2,2,3,1,1,5,1,1,2,1,1,5,2,3,2,5,1,1,2,4,1,2,2,3,1,2,3
+Female,41 to 50 years,Hinduism,OBC/BC,PG,No,Not voted,2,1,1,2,2,1,3,4,1,1,1,4,5,3,1,2,1,2,2,4,4,3,4,3,3,3,2,2,2
+Female,20 to 30 years,Hinduism,OBC/BC,UG,No,Not voted,1,1,1,1,2,4,1,2,5,5,5,3,3,2,5,3,4,1,5,3,2,2,3,3,2,3,2,2,3
+Male,31 to 40 years,Hinduism,OBC/BC,PG,No,Not voted,1,1,1,3,4,3,5,5,5,5,5,5,5,5,5,1,5,1,2,5,2,5,5,3,3,3,3,3,2
+Female,20 to 30 years,Hinduism,OBC/BC,UG,No,Others,1,1,1,1,1,1,3,2,1,1,1,1,1,5,2,3,2,3,2,5,1,2,1,3,3,3,3,3,2
+Male,31 to 40 years,Hinduism,OBC/BC,PG,No,Regional Parties,1,2,1,1,2,1,3,1,1,1,1,4,3,2,2,4,5,5,1,1,1,3,3,3,3,3,2,3,1
+Female,20 to 30 years,Hinduism,GC,UG,No,Not voted,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,1,1,1,1,3,3,3,3,3,2
+Female,20 to 30 years,Hinduism,GC,UG,No,Others,1,1,1,1,1,1,5,3,5,5,5,5,5,5,5,5,1,1,5,5,5,5,5,2,1,3,2,1,2
+Male,20 to 30 years,Hinduism,OBC/BC,PG,No,Others,1,2,3,2,4,1,2,3,1,3,1,5,5,3,3,5,3,1,1,2,2,3,5,2,2,3,3,3,2
+Male,20 to 30 years,Hinduism,GC,PG,No,BJP,1,1,3,1,2,5,4,5,5,5,5,1,1,1,5,2,4,1,1,1,1,3,1,1,1,1,1,1,1
+Female,31 to 40 years,Hinduism,OBC/BC,Professional,No,Not voted,1,1,1,2,4,2,5,1,5,5,5,1,1,1,4,5,3,3,5,1,3,1,1,1,1,1,1,1,1
+Male,20 to 30 years,Hinduism,GC,UG,No,Not voted,1,1,5,3,5,1,3,1,1,1,1,3,3,1,2,3,2,3,2,3,1,3,3,3,1,3,2,3,3
+Female,20 to 30 years,Hinduism,GC,UG,No,Not voted,1,1,1,1,1,5,5,1,5,5,5,1,5,1,5,1,1,1,1,5,1,5,2,1,1,1,1,1,1
+Male,51 to 60 years,Hinduism,GC,PG,No,Not voted,1,1,1,1,4,5,4,4,1,1,1,2,1,2,2,4,4,5,2,1,1,2,2,2,3,3,3,3,2
+Female,20 to 30 years,Hinduism,SC/CT,UG,No,Not voted,1,1,1,1,1,5,5,1,5,5,5,1,1,1,1,5,5,1,1,5,1,2,5,3,1,3,3,3,3
+Female,20 to 30 years,Hinduism,OBC/BC,UG,No,Not voted,1,1,1,1,1,5,5,1,5,5,5,5,5,5,5,1,1,5,1,5,5,5,5,3,1,3,3,3,3
+Female,41 to 50 years,Hinduism,GC,PG,No,Congress,1,1,1,1,3,1,5,3,2,2,2,4,2,3,2,4,5,5,5,1,1,1,1,3,3,3,3,3,3
+Male,51 to 60 years,Hinduism,OBC/BC,UG,No,Congress,1,1,1,1,1,1,1,5,5,5,5,5,1,1,2,1,5,5,5,1,1,1,5,3,1,3,3,3,1
+Male,31 to 40 years,Hinduism,OBC/BC,PG,No,Not voted,1,1,1,1,1,1,4,3,4,5,5,2,4,5,5,5,5,5,5,1,5,2,4,3,3,3,3,3,2
+Male,20 to 30 years,Hinduism,SC/CT,PG,Yes,Regional Parties,1,2,3,1,3,1,5,3,1,1,1,1,1,1,2,2,4,5,4,1,2,1,1,3,3,3,3,1,3
+Male,20 to 30 years,Hinduism,GC,UG,No,Not voted,1,1,1,2,1,1,1,1,1,1,1,2,2,1,1,5,1,1,1,1,1,2,1,3,3,3,3,3,3
+Female,20 to 30 years,Islam,OBC/BC,Below 12th,No,Not voted,1,1,1,3,1,3,5,1,5,5,5,5,5,3,5,3,5,5,1,5,4,3,4,2,2,3,2,1,2
+Female,20 to 30 years,Hinduism,GC,UG,No,Not voted,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,2,1,2,1,1,1,3,3,3,3,3,3
+Male,51 to 60 years,Hinduism,OBC/BC,Professional,No,BJP,1,2,2,3,4,1,2,2,1,1,1,1,1,1,2,4,1,2,1,2,4,3,2,3,3,3,3,2,3
+Male,31 to 40 years,Hinduism,GC,Professional,No,Others,1,2,3,1,3,3,3,3,5,5,5,4,5,4,5,4,5,5,5,4,3,3,4,1,1,1,1,1,1
+Female,20 to 30 years,Hinduism,OBC/BC,UG,No,Not voted,1,1,1,1,5,5,5,5,5,5,5,1,1,1,1,1,1,1,1,1,1,1,1,3,3,3,3,3,3
+Male,20 to 30 years,Hinduism,GC,PG,No,Congress,1,1,4,2,5,2,5,5,5,5,5,4,5,5,5,1,4,4,5,5,5,2,5,3,1,3,3,3,1
+Male,20 to 30 years,Atheist/Agnostic,GC,PG,Yes,Regional Parties,1,4,2,4,5,1,2,4,1,1,1,1,2,2,2,2,1,2,1,1,1,1,1,2,2,3,2,2,3
+Male,20 to 30 years,Hinduism,OBC/BC,PG,No,Regional Parties,1,3,1,1,3,4,3,5,4,4,5,1,1,1,3,5,1,1,5,1,1,1,1,1,1,2,2,1,1
+Male,31 to 40 years,Hinduism,SC/CT,PG,No,Congress,1,1,1,1,1,4,4,5,4,4,4,2,1,5,4,3,5,5,5,3,3,2,1,1,1,3,2,2,2
+Male,20 to 30 years,Atheist/Agnostic,SC/CT,PG,Yes,Others,1,1,2,1,1,5,5,3,1,1,1,5,5,5,3,5,3,5,2,2,5,1,1,1,1,1,1,1,1
+Male,20 to 30 years,Hinduism,GC,UG,No,Not voted,1,1,1,1,2,1,5,1,1,2,1,1,1,1,2,5,5,5,5,1,1,3,1,3,1,3,1,1,3
+Male,20 to 30 years,Hinduism,GC,UG,No,Regional Parties,1,1,1,1,3,1,3,3,1,1,1,2,1,1,2,2,3,3,2,1,2,2,1,3,3,3,3,2,2
+Male,20 to 30 years,Hinduism,OBC/BC,PG,No,Congress,1,1,1,1,5,1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,1,1,1,1,1,1
+Male,31 to 40 years,Hinduism,OBC/BC,Professional,No,Congress,1,1,1,1,1,4,5,4,5,5,5,5,4,5,5,2,3,1,1,5,5,5,5,3,3,3,3,3,2
+Male,51 to 60 years,Hinduism,GC,PG,Yes,NA,1,1,1,3,2,1,2,3,3,4,3,2,2,2,1,5,5,5,5,1,1,1,1,2,2,2,3,3,2
+Male,20 to 30 years,Hinduism,GC,PG,No,Not voted,1,1,1,1,3,4,4,4,5,5,5,4,2,3,2,4,5,1,5,1,3,4,3,3,3,3,3,3,2
+Male,31 to 40 years,Hinduism,OBC/BC,PG,No,Regional Parties,3,4,4,4,3,1,2,2,1,1,1,2,1,1,1,5,4,5,4,2,1,2,1,3,3,3,3,2,2
+Female,41 to 50 years,Hinduism,GC,Professional,No,BJP,3,4,3,4,4,5,5,5,5,5,5,3,5,3,5,5,5,5,3,3,3,3,4,3,3,3,3,2,2
+Female,20 to 30 years,Islam,OBC/BC,UG,No,Not voted,1,1,1,1,1,3,2,1,4,4,5,1,3,5,1,5,3,2,5,5,5,3,3,2,1,3,3,2,3
+Female,41 to 50 years,Hinduism,GC,PG,No,Regional Parties,1,1,1,3,3,1,2,3,1,1,1,3,4,3,1,3,2,2,1,2,1,2,1,3,3,3,3,3,3
+Male,31 to 40 years,Hinduism,GC,Professional,No,BJP,1,3,2,2,3,3,2,1,1,2,1,5,1,4,1,3,5,5,1,2,4,2,1,3,3,3,3,3,2
+Female,20 to 30 years,Islam,OBC/BC,UG,No,Not voted,1,1,1,1,1,5,5,2,4,5,5,5,4,5,5,3,4,2,3,3,5,3,3,3,2,3,3,2,3
+Female,20 to 30 years,Christian,GC,UG,No,Not voted,1,1,1,1,1,2,5,1,1,1,1,1,1,1,1,1,1,2,1,4,2,1,1,2,1,3,3,1,1
+Female,20 to 30 years,Islam,OBC/BC,UG,No,Not voted,1,1,2,1,1,5,5,4,5,5,5,2,4,5,5,5,4,3,3,5,4,5,5,3,3,3,3,1,2
+Female,31 to 40 years,Hinduism,GC,Professional,No,Regional Parties,1,1,1,1,3,1,2,3,1,1,1,3,2,3,2,2,1,5,3,2,1,1,1,3,2,3,3,3,3
+Female,41 to 50 years,Hinduism,GC,PG,No,BJP,1,3,1,1,4,2,2,4,1,2,1,3,2,2,2,4,2,3,4,1,3,2,2,2,2,3,2,2,3
+Male,20 to 30 years,Hinduism,OBC/BC,UG,No,Others,1,1,1,1,3,4,4,3,4,4,5,1,2,5,4,4,1,1,1,5,1,5,5,1,1,1,1,1,1
+Female,20 to 30 years,Hinduism,Others,UG,Yes,Not voted,1,1,1,1,1,5,5,3,5,5,5,5,3,5,3,1,1,1,5,3,5,1,1,2,3,3,2,2,3
+Male,20 to 30 years,Hinduism,OBC/BC,UG,No,Congress,1,1,1,1,1,5,5,5,5,5,5,5,5,5,5,3,4,2,3,5,1,3,5,3,3,3,3,3,3
+Male,20 to 30 years,Hinduism,OBC/BC,PG,No,BJP,2,3,2,2,4,3,3,3,1,1,2,3,3,3,3,3,4,3,3,3,3,4,3,1,1,1,1,1,1
+Female,20 to 30 years,Hinduism,OBC/BC,Professional,No,Others,1,1,1,2,5,2,1,2,1,1,1,4,1,4,1,5,5,5,4,1,1,2,1,2,2,3,3,2,2
+Male,20 to 30 years,Hinduism,OBC/BC,PG,No,Others,1,1,1,1,1,5,3,3,5,5,5,1,3,3,1,1,2,1,4,4,3,1,1,1,1,1,1,1,1
+Female,20 to 30 years,Hinduism,OBC/BC,UG,No,Not voted,1,1,1,1,2,1,1,1,1,1,1,1,3,1,1,1,1,3,4,4,4,4,4,1,1,1,1,1,1
+Male,20 to 30 years,Hinduism,SC/CT,UG,No,BJP,1,1,1,1,1,5,2,5,5,5,5,3,5,1,5,4,5,5,2,1,5,5,4,1,1,1,1,1,1
+Male,20 to 30 years,Islam,OBC/BC,PG,No,Congress,1,1,1,1,2,4,3,3,5,5,5,3,4,3,4,4,4,3,3,4,4,3,4,3,2,3,2,3,2
+Male,20 to 30 years,Hinduism,GC,PG,No,Not voted,1,1,1,1,3,1,2,2,2,2,1,5,1,1,1,1,1,5,3,1,5,1,1,3,3,3,3,2,1
+Male,31 to 40 years,Hinduism,OBC/BC,PG,No,Regional Parties,1,1,1,4,4,5,5,4,5,5,5,5,5,5,5,1,5,1,1,5,5,5,5,3,2,3,3,2,2
+Female,20 to 30 years,Hinduism,GC,Professional,Yes,Not voted,1,3,1,1,2,3,4,3,1,2,1,3,2,1,1,3,4,3,2,2,1,3,2,2,2,3,2,2,3
+Male,20 to 30 years,Atheist/Agnostic,OBC/BC,PG,No,Congress,2,1,1,1,3,1,3,3,1,1,1,5,4,4,1,3,1,5,1,3,3,3,3,3,3,3,3,1,1
+Male,41 to 50 years,Hinduism,OBC/BC,PG,No,Not voted,2,1,1,2,3,1,5,5,5,5,5,4,4,5,3,1,5,2,5,1,3,5,5,3,2,2,1,1,1
+Female,20 to 30 years,Hinduism,OBC/BC,PG,No,BJP,1,1,1,1,1,2,3,2,5,5,5,3,4,4,3,3,3,2,3,4,3,5,5,1,1,1,1,1,1
+Female,31 to 40 years,Hinduism,Others,Professional,Yes,BJP,1,1,1,2,1,2,3,4,1,1,1,4,5,5,5,5,4,5,5,3,2,3,2,3,3,3,3,2,2
+Female,31 to 40 years,Islam,Others,Professional,No,Others,1,1,1,1,2,1,3,4,1,2,2,4,1,2,1,5,5,5,3,1,1,3,1,3,3,3,3,3,3
+Male,31 to 40 years,Hinduism,GC,Professional,No,Not voted,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,2,2,2
+Female,20 to 30 years,Hinduism,GC,PG,No,BJP,1,2,3,2,4,1,1,3,2,2,1,1,1,1,1,5,3,5,5,1,1,1,1,1,1,3,1,1,1
+Female,41 to 50 years,Hinduism,SC/CT,PG,No,Others,1,1,1,1,1,1,1,4,1,1,1,3,3,1,3,3,3,3,1,2,5,3,1,3,2,3,2,3,3
+Female,20 to 30 years,Hinduism,GC,UG,No,Not voted,1,1,1,1,1,1,2,2,1,1,1,3,3,3,2,2,3,2,2,3,4,4,4,2,2,2,2,2,2
+Male,31 to 40 years,Hinduism,OBC/BC,Professional,No,BJP,1,4,1,2,2,5,5,5,5,5,5,3,3,3,4,3,2,2,3,2,3,1,3,3,2,3,3,2,2
+Female,41 to 50 years,Hinduism,GC,Professional,Yes,BJP,1,1,1,1,2,1,3,2,1,1,1,2,1,3,3,5,1,4,3,5,1,4,1,2,2,3,2,2,1
+Male,41 to 50 years,Hinduism,Others,Professional,No,Others,1,3,1,1,4,5,5,3,5,4,5,5,5,5,5,2,5,1,3,5,5,3,5,3,3,3,3,3,3
+Female,20 to 30 years,Hinduism,OBC/BC,UG,Yes,Congress,1,1,1,1,1,1,1,5,1,1,1,1,5,5,1,1,1,5,1,1,1,5,1,1,1,3,1,1,2
+Female,31 to 40 years,Hinduism,GC,PG,No,BJP,1,4,1,1,5,3,4,1,1,2,1,2,1,1,1,5,5,5,5,1,2,2,1,3,3,3,2,3,2
+Male,Above 60 years,Islam,GC,PG,No,Not voted,1,1,1,2,2,3,3,2,1,1,1,4,3,4,3,2,2,5,3,3,4,4,3,2,3,2,2,2,2
+Female,31 to 40 years,Hinduism,GC,PG,No,Others,1,3,1,1,1,2,4,3,2,2,2,3,2,4,4,2,2,4,2,4,2,4,2,3,3,3,3,2,2
+Male,31 to 40 years,Hinduism,GC,Professional,No,BJP,2,2,4,4,3,1,2,3,2,3,4,5,1,3,5,5,4,5,4,2,2,2,3,2,2,3,3,3,2
+Female,31 to 40 years,Hinduism,OBC/BC,Professional,No,Others,1,1,2,1,2,1,1,1,1,1,1,3,3,1,1,1,2,3,2,1,1,2,2,1,1,1,1,1,1
+Male,51 to 60 years,Hinduism,OBC/BC,Professional,No,Congress,1,1,1,1,3,1,4,1,5,5,5,1,1,3,1,1,5,5,5,1,5,1,1,1,1,1,1,1,1
+Male,20 to 30 years,Atheist/Agnostic,Others,PG,No,Others,1,1,1,1,1,2,5,5,5,5,5,3,5,4,5,3,5,1,5,5,5,5,5,1,1,3,2,2,2
+Male,20 to 30 years,Hinduism,OBC/BC,PG,No,Others,1,1,1,1,1,3,4,4,1,1,1,2,1,3,2,2,2,3,4,2,2,3,1,3,3,3,3,3,3
+Female,31 to 40 years,Hinduism,OBC/BC,PG,No,BJP,1,1,2,1,1,1,5,1,1,1,2,1,1,5,1,5,2,3,1,5,1,1,2,1,1,1,1,1,1
+Female,41 to 50 years,Christian,GC,PG,No,NA,1,3,3,4,4,1,2,1,2,2,2,2,1,3,1,3,1,1,3,2,5,4,2,2,1,3,2,2,3
+Male,20 to 30 years,Atheist/Agnostic,Others,Professional,No,NA,1,1,1,1,1,1,2,1,1,3,1,1,1,1,1,5,5,5,4,1,2,1,1,3,2,2,3,2,1
+Male,51 to 60 years,Hinduism,OBC/BC,Professional,No,Regional Parties,1,2,1,1,3,1,1,1,1,1,1,5,5,5,3,3,2,3,1,3,5,5,5,2,2,2,2,1,1
+Female,31 to 40 years,Christian,SC/CT,PG,No,Others,2,2,1,2,3,1,4,5,1,1,1,1,5,5,5,5,5,1,1,1,5,3,1,1,1,1,1,1,1
+Male,41 to 50 years,Hinduism,GC,Professional,No,BJP,1,1,1,1,2,2,1,3,1,1,1,2,2,2,1,4,3,5,5,2,2,4,2,3,3,3,3,1,1
+Male,41 to 50 years,Christian,Others,Professional,No,Regional Parties,1,1,1,1,5,1,1,1,1,1,1,1,1,2,3,2,2,4,3,2,1,2,2,2,2,2,2,2,2
+Female,20 to 30 years,Christian,GC,PG,No,Congress,1,2,1,1,3,3,3,3,1,1,1,3,2,3,2,5,4,3,3,1,3,3,1,3,3,3,3,3,3
+Female,31 to 40 years,Hinduism,GC,PG,No,BJP,2,2,4,3,4,2,2,2,1,2,2,4,2,2,2,4,2,3,2,2,2,2,2,3,3,3,3,2,1
+Female,20 to 30 years,Hinduism,GC,Professional,No,NA,1,1,1,1,4,5,2,3,1,1,1,3,2,3,3,4,2,2,5,2,4,1,1,3,3,3,3,3,3
+Female,41 to 50 years,Christian,GC,PG,No,Not voted,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1
+Male,41 to 50 years,Hinduism,OBC/BC,PG,No,Not voted,4,4,1,4,4,3,4,3,5,5,5,2,2,2,4,5,5,3,5,2,3,1,2,1,1,1,1,1,1
+Female,41 to 50 years,Christian,OBC/BC,Professional,No,Regional Parties,1,1,3,1,1,1,1,1,1,1,1,5,5,4,3,1,1,1,1,5,5,5,5,1,1,1,1,1,1
+Male,20 to 30 years,Hinduism,SC/CT,PG,No,Congress,3,2,2,1,2,3,3,3,5,5,5,4,5,4,4,4,3,3,3,2,2,3,3,1,1,1,1,1,1
+Female,41 to 50 years,Christian,SC/CT,PG,No,Regional Parties,1,1,1,1,2,1,1,1,1,2,1,5,3,5,3,5,1,1,1,4,5,5,5,3,2,2,2,1,2
+Female,20 to 30 years,Hinduism,OBC/BC,PG,No,Not voted,1,3,3,4,2,3,3,3,4,4,4,3,4,3,3,2,3,2,3,4,5,4,4,3,3,3,3,3,2
+Female,31 to 40 years,Islam,OBC/BC,PG,No,NA,1,3,4,1,3,1,1,2,1,1,3,2,1,2,2,2,2,3,3,2,4,2,2,2,1,3,2,3,2
+Female,20 to 30 years,Hinduism,OBC/BC,UG,Yes,Not voted,5,5,5,5,1,3,4,1,5,5,5,3,5,5,5,1,5,1,3,5,1,2,5,3,3,3,3,3,3
+Female,20 to 30 years,Hinduism,OBC/BC,UG,No,Others,5,5,5,5,1,3,4,1,5,5,5,5,5,5,4,1,5,1,3,5,1,2,5,3,3,3,3,1,2
+Female,20 to 30 years,Hinduism,OBC/BC,UG,Yes,Not voted,5,5,5,5,1,3,4,1,5,5,5,5,5,5,5,1,5,1,3,5,1,2,5,3,3,3,3,1,3
+Female,20 to 30 years,Hinduism,OBC/BC,UG,Yes,Not voted,5,5,5,5,1,3,4,1,5,5,5,5,5,5,4,1,5,1,3,5,1,2,5,3,3,3,3,1,3
+Male,20 to 30 years,Hinduism,GC,UG,No,Others,1,2,3,3,3,4,3,3,3,4,3,3,3,3,3,3,4,3,3,3,3,3,3,1,2,3,1,1,2
+Female,41 to 50 years,Hinduism,GC,PG,No,Not voted,1,3,2,3,4,2,1,2,1,2,1,5,2,2,2,3,2,2,5,2,4,1,2,3,3,3,3,3,3
+Male,31 to 40 years,Christian,GC,Professional,No,Others,3,3,1,2,5,3,3,4,2,1,4,5,1,3,3,3,4,5,5,1,1,3,3,3,3,2,3,3,3
+Female,20 to 30 years,Hinduism,Others,PG,No,Not voted,3,4,1,1,2,1,3,4,2,4,1,4,1,3,2,3,2,5,4,1,2,3,1,1,1,3,3,2,3
+Male,41 to 50 years,Hinduism,OBC/BC,Below 12th,No,Not voted,1,1,1,1,1,5,5,5,1,5,5,5,5,5,5,1,1,1,5,5,5,5,5,3,3,3,3,3,3
+Female,51 to 60 years,Atheist/Agnostic,GC,PG,No,Not voted,1,1,1,1,4,3,3,4,1,1,1,1,1,3,3,3,3,1,3,3,3,1,3,3,2,2,2,3,3
+Female,31 to 40 years,Hinduism,OBC/BC,PG,No,Regional Parties,1,2,4,1,3,1,2,5,1,1,1,2,1,2,1,3,4,5,3,2,1,2,2,3,3,3,3,2,3
+Male,20 to 30 years,Hinduism,Others,PG,No,Not voted,1,3,3,3,3,1,1,1,1,1,1,2,3,5,3,3,3,3,3,3,3,3,3,2,2,3,3,2,2
+Female,20 to 30 years,Christian,SC/CT,PG,No,Congress,1,3,1,1,3,1,2,3,1,1,1,1,1,3,2,2,2,1,4,1,2,3,3,3,2,3,3,3,1
+Female,20 to 30 years,Hinduism,OBC/BC,PG,No,Not voted,1,1,1,1,2,3,4,5,2,3,2,3,2,4,3,3,3,3,3,3,3,3,3,1,1,3,3,2,2

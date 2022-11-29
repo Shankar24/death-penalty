@@ -1,0 +1,417 @@
+---
+title: |
+  | Death Penalty - A Public opinion from the India's context
+author: "Shankar MM"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+  word_document: default
+header-includes:
+- \AtBeginEnvironment{tabular}{\singlespacing}
+- \AtBeginEnvironment{lltable}{\singlespacing}
+- \usepackage[labelformat=empty]{caption}
+- \usepackage{setspace}\onehalfspacing
+- \usepackage{float}
+abstract: \ **The article examines the various theories of the death penalty through
+  public opinion. The Study attempted to highlight the evolution of the construct
+  of the death penalty from various legal philosophers views. Death penalty principles
+  such as Retribution, Humanitarianism, and Deterrence are discussed. The survey research
+  method collects the data through a questionnaire-based method. A sample of 223 is
+  collected through online mode. The study results supported the agreement that the
+  death penalty among Indians is high. The relationship between deterrence and agreement
+  of the death penalty through regression analysis is positively related. The study
+  also highlighted the limitations for future research in this area**
+geometry: margin=1in
+fontsize: 12pt
+mainfont: Times New Roman
+fig_caption: yes
+indent: yes
+csl: apa.csl
+bibliography: ethics.bib
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,warning = FALSE)
+library(foreign)
+library(rmarkdown)
+library(psych)
+library(ggplot2)
+library(knitr)
+library(tidyverse)
+library(citation)
+library(readxl)
+library(knitr)
+library(stargazer)
+library(equatiomatic)
+library(randomcoloR)
+suppressMessages(library(dplyr, warn.conflict = FALSE, quietly = TRUE))
+setwd("/Users/apple/Desktop/KSPP/Sem II/P&E/Term Paper P&E/")
+dp = read.csv("dp.csv")
+
+```
+
+\newpage
+
+> "One has to strongly affirm that condemnation to the death penalty is an inhuman measure that humiliates personal dignity, in whatever form it is carried out”
+
+> --- Pope Francis
+
+
+### 1. Introduction
+
+This study brings out the opinion on the death penalty among the diversified Indian population. The study brings previous literature to understand capital punishment from a moral and ethical perspective besides a legal lens. @tyler1982support Country like the US regularly conduct people poll on for and against capital punishment through their survey and even, @liang2006sources china conducted the survey research on capital punishment among the student's community, but in the sub-continent, this is absent. This study fills the gap of conducting the survey-based research on capital punishment based on the various hypotheses such as Retribution, Deterrence, Humanitarianism, and Pragmatism prevailing in the literature. The outcome of the public opinion poll is essential because it changed the award of punishment, and many corrections happened in the legal system based on people opinions @cullen2000public. The study also highlights the importance of motive of the crime and awarding punishment based on legal ground @hessick2006motive. The study also highlighted philosophers who supported capital punishment like Kant, Hegel, Bentham, and other philosophers who opposed capital punishment. However, among the supporters of capital punishment, they did not indicate that the appropriate punishment would be death for what kind of crime.
+
+### 2. Review of literature
+
+Prior literature is collected from various Journals, especially from Ethics, Law, Philosophy, and Punishment. The literature section is broad, classified into three areas. First, deal with various theories of punishment, which included a critical review on Kant and Aquinas Opinion on punishment and Deterrence theories, the further second dealt with Utilitarian versus Non Utilitarian principles on Punishments and the last section dealt with public opinion on the death penalty and end of the section gap of the study is positioned based on the research question of the study.
+
+### 2.1 Kant and Aquinas: Retributivism
+
+The long unsettled debate over the death penalty punishment among the philosophers and the common man is continuing. The debate is extended to the current legal system. Both who supports and oppose the death penalty have their own reasons to justify it. Among the various position, two dominant positions are utilitarianism and retributivism. Kant known political philosopher justified his position on the death penalty based on the "universal principle of right" (UPR); if any human violates the basic principles of UPR, Kant position was grounded on moral principle, and it is "categorical imperative". Kant's penology is emphasized legal coercion. In other words, Kant urged the state responsible for ensuring everyone freedom, and any person disturbing others person freedom state should interfere in it. Kant's formulation of retributive is a healthy alternative to the consequentialist idea of punishment.
+Kant supports the Censuring principles (CP), which belief in "censure guilty on wrongdoing". Many Utilitarian challenges Kant's perspective of penology on the factor of categorical imperative led to punitive requirements. 
+
+ Aquinas Thomas provided a firm theory on punishment when compared with Kant. Aquinas is more on legal aspects than moral. His arguments are based on the "common good". He explained common good with direct reference to the institution of punishment; however, both Kant and Aquinas are on the same page on penology supporting retributivism theory. According to Aquinas, the common good has two dimensions: peace and virtue. @koritansky2005two used Aquinas's quote while referring to peace (pax) and virtues (virtue). In the words of Aquinas
+ 
+ <div class="quote-container">
+
+> Since some are found to be so insolent and prone to vice, who are not easily moved by words, it was necessary that such people be 
+> restrained from evil by force and fear, in order that, at least, they might desist from evildoing, and leave others in peace ... 
+> which compels through fear of punishment is the discipline of law. For this reason it was necessary for the peace and 
+> virtue of men that laws be established
+ 
+
+</div>
+
+It is clear that Aquinas justify the capital punishment on grounds of law based on common good of peace and virtue. 
+
+### 2.2 Beccaria and Bentham: Deterrence
+
+In the mid-1970s, Ehrlich first attempted systematic analysis between capital punishment and the deterrence hypothesis. Many believe deterrence principles avoid future crimes in the state. However, this belief is challenged by the empirical work done in the US between 1970 through the 1990s. The state has a higher murder rate where the death penalty is legally imposed compared to the state that does not have death penalty @liu2004capital, and the same author suggested that abolition of the death penalty is discarded, not an only deterrent but also reduce marginal productivity of other possible deterrents.
+@lempert1981desert said capital punishment brought two different arguments one is based on moral intuitions, and the other is deterrence, the former brought moral philosophers in domination, and the latter brought empirical social scientists in the front seat. Deterrence has a long history. Before 1800, the two known legal philosophers, Beccaria and Bentham, laid the foundations for deterrence theory, and they argued the main three inputs to the deterrence process the severity, certainty, and celerity of punishment. Both believed deterrence is used for the constructive purpose to prevent crimes when general deterrence fails, legal system sanction specific deterrence, however, the effect of deterrence is heterogeneous, which is ranged between null to very large @nagin2013deterrence and the same author suggested that lengthy prison sentences cannot be justified on the grounds of deterrence. However, crime prevention can be justified through incapacitation or on retributive grounds.
+
+
+### 2.3 Utilitarian versus Non Utilitarian principles on Punishments
+
+Utilitarian principles believe in sentencing to mitigate or lessen the severity of the current crime penalty or future offenders. Utilitarian ideas impose a limitation on punishment based on cost-benefit analysis. It advocates that criminal penalties cost the state more than benefits; the punishment should be efficient, less expensive, and more effective. If method A less costly and fetch more benefits than method B, utilitarianism prefered method A over B. There are five causal mechanisms: rehabilitation, incapacitation,  specific and general deterrence, and denunciation. The first three is used to control the future crimes of particular offenders. The last two also deter future crime, but it is imposed on a particularly large or subgroup of the public believed to be offending. Retribution falls under non-utilitarian sentencing ideas @frase2005punishment. Retribution theory believes that the proportion of punishment should be matched with the severity of the crime, Sentences based on blameworthiness of offenders in the given situation than cost-benefit analysis of punishment. In the words of H.L.A Hart
+
+ <div class="quote-container">
+
+> "if severity of penalties diverges sharply from this rough [proportionality] scale,
+> there is a risk of either confusing common morality or flouting it the law into contempt"
+
+</div>
+
+These words indicate that if punishment is not proportionately matched with crime, it conveys the wrong message to be public in the criminal justice system. In the words of Moore, "Punishing guilty wrongdoers is prima facie obligatory". A similar Berman echoes a similar view: "Justice requires moral agent to punish guilty wrongdoers". Principles such as  Intrinsic value, Deserving principles and Censuring principles broadly converge in the same point of favouring the punishment @sverdlik2016giving.
+
+### 2.4 Futility of capital punishment
+
+Though most of the section believed the death penalty brought down the severity of the crime in society, much civil society and human rights forums believe capital punishment is futile. This kind of mixed reaction is witnessed in India, especially on the verdict of the Delhi gang-rape case; people who do not support the death penalty, even on the "rarest rare case", are justifying their stand Humanitarianism grounds. Across the world, many times, the wrong verdict of capital punishment is irreversible, and many times stringent law is imposed when offenders from a backward community and not on affluent classes @manjit2013futility. Another rarest of rare cases on capital punishment verdict given by India's top court on Mumbai attacked by Kasab, and many people killed indiscriminately. This verdict is explicitly celebrated in many pockets of India; this raised the question of India's society's conscience on the death penalty. A scholar who opposes the death penalty criticized the judgement against civilized society, and India missed the great opportunity to stand against the death penalty. @cullen2000public study highlighted the citizen willing to substitute the death penalty for life long imprisonment without parole, and for young offenders, rehabilitation is better than harsh punishment; in the words of @toby1964punishment act of death penalty is barbaric would "disappear as humanitarianism and rationality spread." 
+
+
+### 3. Research Question
+
+After understanding various prior literature from both western and eastern contexts. It is known that there is a dearth of public opinion studies carried out in the Indian context especially using various punishment theories such as Retribution, Deterrence, Humanitarianism and Opinion on the death penalty on various crimes. The study research question is given below:
+
+- RQ1. What type of theories is highly perceived (Retribution, Deterrence, Humanitarianism) by the selected respondents of the India Population?
+
+- RQ2. Do respondents support the death penalty on various crimes that have prevailed in society in recent times?
+
+- RQ3. Do respondents demographic backgrounds such as gender, education and religion play any role in perceived lower or higher punishment principles.
+
+### 4. Objective and Study Hypotheses
+
+The study has the primary objective of
+
+- Understanding the death penalty theory from the literature perspectives
+
+- Evaluating the General public Opinion on the death penalty
+ 
+- Profiling the respondents based on their agreement and disagreement on Death Penalty
+
+Previous literature supported the various hypotheses to have or not have a death penalty. The motivation factor is Retribution, Deterrence, Humanitarianism, and Pragmatism. Besides these dimensions, the demographic profile of the people played a vital role to form an opinion on the death penalty.
+
+Besides this, respondents background or demographic profile played a vital role in the Opinion to have or not to have the death penalty. Demographic variables such as Gender, Age, Education, Religion form the Opinion to support or not to support the death penalty. The study hypotheses are based on demographics and another critical dimension on the death penalty. 
+
+- H1: Level of Religion, Gender, and Education make a significant difference on Opinion of the death penalty
+
+Among the four dimensions,  Retribution and Deterrence are factors supporting to have death penalty across the globe. Humanitarianism is inversely related to the death penalty. Many studies across the globe tested these hypotheses, especially in the global north and some parts of the south. To the researcher's knowledge, this is not much attempted in the sub-continent region.
+
+- H2: Retribution, Deterrence, Humanitarianism enacts as a predictor on the Opinion of Death Penalty
+
+
+### 5. Research Methodology
+
+This study follows the post-positivism paradigm, which converts subjectivity into objectivity using statistical application. This study formulated the hypotheses based on the theory of capital punishment, which includes Deontological Justifications, Consequentialist Justifications, and Humanitarianism justification. The study used a quantitative research method to investigate the research questions. Many studies attempted to explain the phenomena through statistical modelling, some are based on primary data, and some are based on secondary data—The Study applied time series based data to understand capital punishment over many decades. 
+
+
+The study follows a standard questionnaire or scale to measure attitude towards capital punishment. The Questionnaire includes the demographic profile of the respondents and opinions about death penalty for various crimes. On statistical techniques, the study followed standard ordinary least square regression beside study took care of measurement error through reliability tests. 
+
+### 5.1 Sample design
+
+The study followed a  snowball non-probability sample method.   Method of data collection is followed through online mode. one of the key reasons to follow the snowball sampling, the prevalence of Covid when the researcher started collecting the data, two weeks is taken to collect the data through various formal and informal groups of social media such as Whatsapp and Facebook. The study covered a sample of 223 samples across India, especially regions of the South, West and North. The Questionnaire is translated into five languages, namely Tamil, Malayalam, Telugu, Hindi and Marathi, besides English. 
+
+### 5.2 Measures used
+
+The study followed an established scale to capture the Opinion of the respondents on the death penalty. Besides demographic variables such as Gender, Age, Education, Religion etc., on study constructs, study used seven dimensions, namely, Victimization index, Authoritarian, Liberal, Retribution, Humanitarianism, Deterrence, and Death Penalty. All the measures are taken from @tyler1982support. Total 29 items are spread through seven dimensions, and all are measured on a five-point rating scale, except the Opinion on the death penalty is measured n a three-point scale. Each item and its descriptive statistics like mean, minimum, maximum and standard deviation is available in the annexure section.    
+
+### 6. Data Analysis
+
+Data analysis is the critical component of the quantitative research approach. The study followed the hypothetico-deductive method to test the hypothesis on establishing prior theory in the literature. The study followed the primary approach of cleaning the unwanted data points, and data is prepared meticulously to run the data analysis. Some reverse items are taken care. Cronbach alpha is applied to assess the reliability score of the dimensions. To understand the distribution of various constructs box-plot graph is used across selected demographic variables. Multiple linear regression is applied to test the hypotheses. The following section focuses on the outcome of the study.
+
+### 6.1 Sample composition
+
+The sample composition of the study revealed the respondent's demographic profile. Female is  56 per cent, 20 to 30 years occupied 58 per cent, 76 per cent of respondents belong to Hinduism, 50 per cent of the sample obtained at least a degree. Since the data is collected online, though available in five languages, there is data collection bias, predominantly survey filled by educated than ill-literate and semi-literate people. 
+
+```{r}
+#dp$Education = factor(dp$Education,levels = c(1,2,3),labels = c("UG","PG","Professional"))
+#table_options(knit_print = TRUE)
+
+count1<- apply(dp[,c(1:3,4)],2,function(x)table(x))
+percentage1<- apply(dp[,c(1:3,4)],2,function(x)(prop.table(table(x))*100))
+freq1<- data.frame(unlist(count1),unlist(percentage1))
+kable(freq1,caption = "Table 1 Demographic Distribution N=223",col.names = c("count","percentage"),digits = 2 )
+```
+
+#### 6.2 Reliability analysis and Descripitive statistics
+
+The typical psychometrics data collection, like the questionnaire method, is not free from bias such as social desirability bias, and there is the prevalence of measurement error while measuring the constructs through the Likert scale. However, permissible measurement error is allowed in the research. In order to check the consistency of data, Cronbach alpha is tested, suggested psychometrics procedure is followed. Most of the constructs obtained .7 suggested by @nunnally1994psychometric. Except for Authoritarian and Humanitarianism, which lies around .60. Table 2 depicts the Cronbach alpha, descriptive statistics. Victimization seems to have obtained a very less score, and it may be that the respondents are not much experienced the victimized in the recent past. The rest of the dimensions have more than a 3 out of 5 point scale. Opinion on the death penalty is measured on a three-point scale,
+
+`r kableExtra::text_spec("average is 2.15 out of 3, which indicated most of the respondents agreeing very much on death penalty for the various types of crimes",color ="red")`
+
+```{r}
+knitr::opts_chunk$set(comment = NA)
+rating = dp[,8:36]
+ratingnames = c("1. Experience ... snatched my chain or my mobile phones",
+"2. Theft ... property",
+"3. Theft ... vehicles",
+"4. Burglary",
+"5. Heard...friends reporting victimization experiences",
+"6. Obedience and respect ... children should learn",
+"7. Not get ahead just don't have enough will power",
+"8. Human nature ... always be war and conflict",
+"9. Equal rights to women is important in the progress society",
+"10. Freedom of speech",
+"11. rights to access civil rights",
+"12. The death penalty ... compensate  some types of crimes",
+"13. The death penalty ...  beliefs in justice",
+"14. Hurt others deserve to be hurt in return",
+"15. Moral obligation to punish ... break the law",
+"16. Executing Human is a cruel punishment",
+"17. Sentencing life in prison ... humane than executing them",
+"18. Religious reasons ... opposing death penalty",
+"19. Death penalty may kill innocent person",
+"20. Executing a person ... committing that crime in the future",
+"21. Criminals think twice ... death penalty",
+"22. Have the death penalty to save the taxpayer the price of hardened",
+"23. The death penalty insure that a criminal never repeats",
+"24. Murdering - people",
+"25. Murdering - leaders",
+"26. Raping",
+"27. Killing Police",
+"28. Attacking -  parliament",
+"29. Kidnapping")
+desc = data.frame(describe(rating))
+
+rownames(desc) = ratingnames
+revScale = function(x)
+{
+  x = 6 - x
+  return(x)
+}
+  
+rating1 = apply(rating[,6:23],2,revScale)
+rating = data.frame(rating[,c(1:5)],rating1,rating[,24:29])
+
+VC <- psych::alpha(rating[,c(1:4)])
+AU <- psych::alpha(rating[,c(6:8)])
+LIB <- psych::alpha(rating[,c(9:11)])
+RT <- psych::alpha(rating[,c(12:15)])
+HT <- psych::alpha(rating[,c(16:19)])
+DN <- psych::alpha(rating[,c(20:23)])
+DT <- psych::alpha(rating[,c(24:29)])
+
+
+dp$Victimisation <- rowMeans(rating[,c(1:4)])
+dp$Authoritarian <- rowMeans(rating[,c(6:8)])
+dp$Liberal <- rowMeans(rating[,c(9:11)])
+dp$Retribution <- rowMeans(rating[,c(12:15)])
+dp$Humanitarianism  <- rowMeans(rating[,c(16:19)])
+dp$Deterrence <- rowMeans(rating[,c(20:23)])
+dp$Death_Penalty <- rowMeans(rating[,c(24:29)])
+
+
+alphascore <- data.frame(rbind(VC$total,AU$total,LIB$total,RT$total,HT$total,DN$total,DT$total))
+
+
+nvar       <- rbind(VC$nvar,AU$nvar,LIB$nvar,RT$nvar,HT$nvar,DN$nvar,DT$nvar)
+
+var_name<- names(dp[,37:43])
+finalalpha<-round(alphascore[,c(1,7,8)],3)
+rownames(finalalpha) <-1:7
+cronbache<-data.frame(cbind(var_name,finalalpha,nvar))
+colnames(cronbache) <- c("Constructs Name","Cronbach Alpha","Mean","Std","No of items")
+
+kable(cronbache,caption = "Table 2 Reliability test and Descripitives",digits = 2)
+
+```
+
+\newpage
+
+### Correlation Analysis
+
+Pearson correlation is used to explore the relationship among the constructs especially,  Retribution, Humanitarianism, Deterrence, and  Death Penalty. Retribution and Humanitarianism are negatively related, which is .06. Similarly, -.19 relationship between Deterrence and Humanitarianism. Deterrence and Death Penalty is positively related, which is .17. All these relationships are very much supported in the past literature.
+
+### Table 3 Correlation Matrix
+  
+```{r}
+knitr::opts_chunk$set(comment = NA)
+options(digits = 2)
+rs = cor(dp[,37:43])
+colnames(rs) = 1:7
+rownames(rs) = c("1 Victimization","2 Authoritarian","3 Liberal","4 Retribution", 
+                 "5 Humanitarianism","6 Deterrence","7 Death Penalty") 
+stargazer(rs,type = "text")
+```
+
+### Graph 1 Dimensions by Gender
+
+This study got data from females than males, which is unusual in the distribution of gender. In reality, it indicated that females showed more interest in this study than their male counterparts. The graph showed there is not much difference in opinion between males and females on study constructs.
+
+
+```{r}
+knitr::opts_chunk$set(comment = NA)
+dp$Gender[dp$Gender=="Prefer not to say"] = "Female"
+dp$Education[dp$Education=="Below 12th"] = "UG"
+dp$Religion[dp$Religion=="Christian"] = "Christanity"
+dp$Religion[dp$Religion=="Atheist/Agnostic"] = "Atheism"
+dp$Religion[dp$Religion=="Others"] = "Atheism"
+
+reg1 = lm(Retribution ~ Gender+Age+Education+Religion,data=dp)
+reg2 = lm(Humanitarianism ~ Gender+Age+Education++Religion,data=dp)
+reg3 = lm(Deterrence ~ Gender+Age+Education++Religion,data=dp)
+
+par(mfrow=c(2,2))
+boxplot(Retribution ~ Gender,data=dp,col=c("orange","grey"))
+boxplot(Humanitarianism ~ Gender,data=dp,col=c("orange","grey"))
+boxplot(Deterrence ~ Gender,data=dp,col=c("orange","grey"))
+boxplot(Death_Penalty ~ Gender,data=dp,col=c("orange","grey"))
+```
+
+### Graph 2 Dimensions by Education
+
+  Among the three categories of education, PG and Professional category very similarly perceived, the respondents from UG category showed slight higher or lower on the rating scale. 
+
+```{r}
+par(mfrow=c(2,2))
+boxplot(Retribution ~ Education,data=dp,col=c("orange","grey","tomato"))
+boxplot(Humanitarianism ~ Education,data=dp,col=c("orange","grey","tomato"))
+boxplot(Deterrence ~ Education,data=dp,col=c("orange","grey","tomato"))
+boxplot(Death_Penalty ~ Education,data=dp,col=c("orange","grey","tomato"))
+
+```
+
+### Graph 3 Dimension by Religion
+
+Across various faith system, respondents belongs to Atheism gave lesser score for retribution and death penalty needed. On all construct people follow Hinduism gave higher score compared to other religion.
+
+```{r}
+par(mfrow=c(2,2))
+boxplot(Retribution ~ Religion,data=dp,col=c("orange","grey","tomato","green3"),las=2, xlab = "")
+boxplot(Humanitarianism ~ Religion,data=dp,col=c("orange","grey","tomato","green3"),las=2,xlab = "")
+boxplot(Deterrence ~ Religion,data=dp,col=c("orange","grey","tomato","green3"),las=2,xlab = "")
+boxplot(Death_Penalty ~ Religion,data=dp,col=c("orange","grey","tomato","green3"),las=2,xlab = "")
+```
+
+\newpage
+### Table 4 Regression on Selected demographics
+
+To test the hypothesis 1, regression analysis is used, keeping three models for three theories of punishment and kept Gender, Age, Education and Religion are independent variables.  On Retribution, compared to PG, UG obtained significant difference. On Humanitarianism Gender and Education showed significant difference. This result may change when other variables are added in the equation. 
+
+```{r}
+knitr::opts_chunk$set(comment = NA)
+stargazer(reg1,reg2,reg3,type = "text",no.space = T, intercept.bottom = FALSE)
+```
+
+
+\newpage
+
+### Table 5 Regression Analysis: DV - Death Penalty and Predictors
+
+Multiple linear regression is applied to prove the hypothesis 2, the equation are given below, death penalty is dependent variable
+and rest of the variable in independent. 
+
+```{r}
+reg5 = lm(Death_Penalty ~ .,data=dp[,c(40:43,5,3)])
+```
+
+Deterrence is significantly related to the death penalty; the relationship between deterrence and the death penalty is positive, which is expected. However other two, retribution and humanitarianism, are not statistically significant. On Demographic variable, Religion is statistically significant. Keeping atheism is a reference category; there is a significant difference between atheism and Hinduism, and Islam. The R square is .08 or eight per cent. F = 2.40 and P <.001.  The model supported the empirical evidence relationship between deterrence and death penalty agreement among the respondents; however, it would not establish with other two theories of punishment.
+
+`r extract_eq(reg5,wrap = TRUE,terms_per_line = 3)`
+
+```{r}
+stargazer(reg5,type = "text",no.space = T, intercept.bottom = FALSE)
+vc = rating[,1:4]
+at = rating[,6:8]
+lb = rating[,9:11]
+re= rating[,12:15]
+de= rating[,16:19]
+hu= rating[,20:23]
+ty= rating[,24:29]
+desc1 = psych::describe(dp[,37:43])
+```
+
+`r extract_eq(reg5,wrap = TRUE, use_coefs = TRUE,terms_per_line = 3)`
+
+one unit of deterrence increase death penalty agreement to .15, similarly, difference between Atheism and Hinduism on death penalty agreement is .36 and with Islam is .43.
+
+### 7. Findings
+
+Through the statistical analysis, findings are derived. On gender there, the female seems to be supporting Humanitarianism better than male. There is a difference between PG and UG respondents on retribution and Humanitarianism on education. Through multiple linear regression, religion and deterrence showed a significant relationship with death penalty agreement. 
+
+
+### 8. Discussion and Policy Recommendation
+
+From the study findings, it is understood that people believe deterrence is the crucial motivation to stop the future crime of people. The other two motivations, such as retribution and, Humanitarianism, would not validate the theory empirically. In previous research, retribution seems significant, but in the Indian context, people agreed much on deterrence; the relationship between deterrence and the death penalty is positive, strengthening the prior literature results. Through correlation study can infer there is negative relationship exists between deterrence and Humanitarianism, this also supported by other research, even in the general view, higher the support for Humanitarianism, deterrence and retribution goes down. Through descriptive statistics, it is understood that people prefer the death penalty very much, and the score of victimization is significantly less, maybe kind of sample whom respondents did not experience adverse incidents in their life. 
+
+As output support for deterrence, a lawmaker can focus more on deterrence, which may be general or specific deterrence, to stop the severity of future crimes. However, this study is not good enough to generalize the whole population. Continuing the death penalty for the rarest of a rare case may be accepted by Indian society. 
+
+### 10. Limitations and Future Directions
+
+The study has various limitations. A known limitation when applying a Questionnaire-based data generated mechanism is social desirability bias. Generally, respondents tend to over score for positive statements and under report negative statements in the Questionnaire. The second limitation is data collected through snowball sampling, which is mainly used for qualitative research, but the study is a typical quantitative research design. Thirdly, though the researcher used a standard scale developed during the 1980s, it is better to use the contemporary period scale than the much older one. At last, the study generalization to a considerable population cannot be justified because of a small sample like 223. 
+
+As a future direction, researchers can overcome the limitation mentioned above; further researchers can use mixed-methods like the combination of case study or phenomenology and statistical approach to making the study more robust. On survey poll, one-shot study or cross-section study may not establish causality. Researchers can use the experimental design or longitudinal study to emphasize a causal path because people's opinions will change based on the scenario. 
+
+
+
+
+\newpage
+
+### Reference:
+
+<div id="refs"></div>
+
+\newpage
+
+
+
+
+
+```{r}
+
+kable(desc[1:4,c("vars", "mean","sd","min","max")],digits = 2,caption = "Table 1 Victimization Index")
+kable(desc1[1,c("n", "mean","sd","min","max")],digits = 2,caption = "Table 1.1 Overall Victimization Index")
+kable(desc[6:8,c("vars", "mean","sd","min","max")],digits = 2,caption = "Table 2 Authoritarian opinion")
+kable(desc1[2,c("n","mean","sd","min","max")],digits = 2,caption = "Table 2.1 Overall Authoritarian opinion")
+kable(desc[9:11,c("vars", "mean","sd","min","max")],digits = 2,caption = "Table 3 Liberal opinion")
+kable(desc1[3,c("n","mean","sd","min","max")],digits = 2,caption = "Table 3.1 Overall Liberal opinion")
+kable(desc[12:15,c("vars", "mean","sd","min","max")],digits = 2,caption = "Table 4 Retribution")
+kable(desc1[4,c("n","mean","sd","min","max")],digits = 2,caption = "Table 4.1 Overall Retribution opinion")
+kable(desc[16:19,c("vars", "mean","sd","min","max")],digits = 2,caption = "Table 5 Humanitarinism ")
+kable(desc1[5,c("n","mean","sd","min","max")],digits = 2,caption = "Table 5.1 Overall Humanitarinism opinion")
+kable(desc[20:23,c("vars", "mean","sd","min","max")],digits = 2,caption = "Table 6 Detterance")
+kable(desc1[6,c("n","mean","sd","min","max")],digits = 2,caption = "Table 6.1 Overall Detterance opinion")
+kable(desc[24:29,c("vars", "mean","sd","min","max")],digits = 2,caption = "Table 7  - Death Penalty opinion")
+kable(desc1[7,c("n","mean","sd","min","max")],digits = 2,caption = "Table 7.1 Overall Death Penalty opinion")
+```
+
